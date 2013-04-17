@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Crapcha
- * Description: Protect your WordPress site with a completely ridiculous and phony captcha that hassles for amusement.
+ * Description: Protect your WordPress site with a completely ridiculous and phony captcha that hassles for amusement. Or just use a strong password.
  * @see http://crapcha.com/
  */
 class Crapcha_Plugin {
